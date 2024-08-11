@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "vs codes",
+			"path": "../../Desktop/vs codes"
+		},
+		{
+			"name": "Weather-APP-HTML-CSS-JS-v2-main",
+			"path": "../Weather-APP-HTML-CSS-JS-v2-main"
+		},
+		{
+			"name": "Portfolio-Website-Template-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio-Website-Template-main"
+	}
+}
